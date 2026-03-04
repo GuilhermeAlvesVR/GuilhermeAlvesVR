@@ -38,19 +38,17 @@
 
 <h2 align="left">Redes e Contato</h2>
 
-###
-
 <div align="left">
 
   <a href="https://guilhermealvesvr.github.io/portfolio-guilherme/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40" height="40" alt="portfolio website" />
+    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo.png" width="40" height="40" alt="portfolio website" />
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
-  <a href="mailto:guilherme.alves.stw@gmail.com" target="_blank">
+  <a href="mailto:guilherme.alves.stw@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 
@@ -59,5 +57,3 @@
   </a>
 
 </div>
-
-###
