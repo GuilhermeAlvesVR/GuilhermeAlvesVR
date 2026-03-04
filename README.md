@@ -41,16 +41,22 @@
 <div align="left">
 
   <a href="https://guilhermealvesvr.github.io/portfolio-guilherme/" target="_blank">
-    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="40" height="40" alt="portfolio website" style="margin-right:15px;"/>
+    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="40" height="40" alt="portfolio website"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" style="margin-right:15px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40"/>
   </a>
 
+  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:guilherme.alves.stw@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" style="margin-right:15px;"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.instagram.com/gui_alvex_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40"/>
