@@ -41,7 +41,7 @@
 <div align="left">
 
   <a href="https://guilhermealvesvr.github.io/portfolio-guilherme/" target="_blank">
-    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="80" alt="portfolio website"/>
+    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="65" alt="portfolio website"/>
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
