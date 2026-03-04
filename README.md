@@ -41,19 +41,19 @@
 <div align="left">
 
   <a href="https://guilhermealvesvr.github.io/portfolio-guilherme/" target="_blank">
-    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="65" alt="portfolio website"/>
+    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="60" height="40" alt="portfolio website"/>
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40"/>
   </a>
 
   <a href="mailto:guilherme.alves.stw@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
   </a>
 
   <a href="https://www.instagram.com/gui_alvex_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40"/>
   </a>
 
 </div>
