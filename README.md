@@ -57,14 +57,17 @@ Portfólio pessoal desenvolvido com Django, incluindo painel administrativo para
 
 <h2 align="left">Redes e Contato</h2>
 
-<div align="left">
-
-<a href="https://portfolio-0y0e.onrender.com/" target="_blank"><img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="40" height="40" alt="portfolio website"/></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:guilherme.alves.stw@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/gui_alvex_/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40"/></a>
-
-</div>
+<p align="left">
+<a href="https://portfolio-0y0e.onrender.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="40" height="40" alt="portfolio website"/>
+</a>
+<a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40"/>
+</a>
+<a href="mailto:guilherme.alves.stw@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/gui_alvex_/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40"/>
+</a>
+</p>
