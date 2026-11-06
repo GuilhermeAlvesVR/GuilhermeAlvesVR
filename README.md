@@ -50,8 +50,8 @@ Brasil - RJ
 🚀 <a href="https://github.com/GuilhermeAlvesVR/DevTrack"><b>DevTrack</b></a><br>
 Aplicação ASP.NET Core MVC para visualização de atividades e informações de usuários do GitHub através da API oficial.<br><br>
 
-🌐 <a href="https://github.com/GuilhermeAlvesVR/portfolio"><b>Studio Portfolio</b></a><br>
-Portfólio pessoal desenvolvido com Django, incluindo painel administrativo para gerenciamento de projetos, tecnologias, cursos e informações de contato.
+💪 <a href="https://github.com/GuilhermeAlvesVR/PersonalTrainerApp"><b>Personal Trainer App</b></a><br>
+Aplicativo mobile em .NET MAUI para gerenciamento de alunos, treinos e avaliações físicas, com API ASP.NET Core e persistência de dados.
 
 </p>
 
