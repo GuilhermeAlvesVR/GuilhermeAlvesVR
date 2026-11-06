@@ -1,41 +1,73 @@
-# Guilherme Alves
+<h1 align="left">Guilherme Alves</h1>
 
-Estudante de Sistemas de Informacao no Rio de Janeiro, Brasil. Construo projetos para transformar aprendizado em produtos funcionais e fortalecer minha base em desenvolvimento web e software.
-
-## Em foco
-
-- Desenvolvimento de aplicacoes web de ponta a ponta
-- Boas praticas, organizacao de codigo e aprendizado continuo
-- Projetos que integram interfaces, APIs e dados
-
-## Tecnologias
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="Django" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C Sharp" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" alt=".NET" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+<p align="left">
+Estudante de Sistemas de Informação<br>
+Brasil - RJ
 </p>
 
-## Projetos em destaque
+<h2 align="left">Sobre mim</h2>
 
-### [DevTrack](https://github.com/GuilhermeAlvesVR/DevTrack)
-Aplicacao ASP.NET Core MVC que consome a API oficial do GitHub para visualizar atividades e dados de usuarios.
+<p align="left">
+- Desenvolvendo projetos para fortalecer minha base técnica<br>
+- Explorando diferentes áreas da tecnologia<br>
+- Focado no aprendizado contínuo e crescimento profissional<br>
+- Buscando evoluir como um profissional versátil e preparado para novos desafios
+</p>
 
-### [Studio Portfolio](https://github.com/GuilhermeAlvesVR/portfolio)
-Portfolio pessoal em Django com painel administrativo para gerenciar projetos, tecnologias, cursos e contatos.
+<h2 align="left">Áreas e Tecnologias Exploradas</h2>
 
-## Contato
+<div align="left">
 
-[Portfolio](https://portfolio-0y0e.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/guilherme-alves-99383a28b/) · [Email](mailto:guilherme.alves.stw@gmail.com) · [Instagram](https://www.instagram.com/gui_alvex_/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img width="12"/>
+
+<img src="https://skillicons.dev/icons?i=bash" height="40"/>
+
+</div>
+
+<h2 align="left">Projetos em Destaque</h2>
+
+<p align="left">
+
+🚀 <a href="https://github.com/GuilhermeAlvesVR/DevTrack"><b>DevTrack</b></a><br>
+Aplicação ASP.NET Core MVC para visualização de atividades e informações de usuários do GitHub através da API oficial.<br><br>
+
+🌐 <a href="https://github.com/GuilhermeAlvesVR/portfolio"><b>Studio Portfolio</b></a><br>
+Portfólio pessoal desenvolvido com Django, incluindo painel administrativo para gerenciamento de projetos, tecnologias, cursos e informações de contato.
+
+</p>
+
+<h2 align="left">Redes e Contato</h2>
+
+<p align="left">
+  <a href="https://portfolio-0y0e.onrender.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/GuilhermeAlvesVR/GuilhermeAlvesVR/main/logo1.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/guilherme-alves-99383a28b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:guilherme.alves.stw@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/gui_alvex_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40"/>
+  </a>
+</p>
